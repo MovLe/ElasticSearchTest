@@ -17,7 +17,7 @@ import java.util.Map;
 
 /**
  * @ClassName ESTest
- * @MethodDesc: TODO ESTest功能介绍
+ * @MethodDesc: 使用API操作ES
  * @Author Movle
  * @Date 5/19/20 12:36 下午
  * @Version 1.0
